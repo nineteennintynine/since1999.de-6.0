@@ -1,3 +1,15 @@
+body {
+    font-family: Glegoo;
+}
+
 a img {
     margin: 2em;
+}
+
+#main {
+    margin: 4em;
+}
+
+.article-teaser {
+    font-size: 0.6em;
 }
